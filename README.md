@@ -13,7 +13,7 @@ out aruwlib for more information.
 **Note:** Currently, aruwlib only supports the RoboMaster Development Board Type A. In the future,
 you will be able to configure this repository for other development boards. See
 aruw/controls/aruwlib#9.
-
+hello
 This template includes the following:
 - Code generated from the `aruwlib` and `modm` repositories. This generated code is located in
   `/template-project/aruwlib` and includes the hardware abstraction layer provided by
